@@ -1,0 +1,5 @@
+- 👋 Jake Edelstein
+- 👀 Musician, Bartender, Weldor and Student at the Turing School of Software and Design
+- 🌱 Currently learning Ruby/Web Dev
+- 💞️ Always looking for opportunities to learn and work with others!
+- 📫 drop a line => jakobedelstein@gmail.com
