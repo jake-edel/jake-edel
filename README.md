@@ -1,5 +1,5 @@
 - 👋 Jake Edelstein
-- 👀 Student at the Turing School of Software and Design
+- 👀 Intern at Method Stair System
 - 🌱 Currently scripting CAD software with Python and C#
 - 💞️ Always looking for opportunities to learn and work with others!
 - 📫 drop a line => jakobedelstein@gmail.com
