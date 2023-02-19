@@ -1,5 +1,5 @@
 - 👋 Jake Edelstein
-- 👀 Intern at Method Stair System
-- 🌱 Currently scripting CAD software with Python and C#
-- 💞️ Always looking for opportunities to learn and work with others!
+- 👀 Currently a Software Developer at S&P Global
+- 🌱 Previously scripting CAD software with Python and C# at Method Stair System
+- 💞️ Always looking for opportunities to learn and work with others
 - 📫 drop a line => jakobedelstein@gmail.com
